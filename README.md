@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UPI Scam Pattern Checker
 
 A rule-based tool that scores the scam risk of a message, UPI ID, or link — built from real, current (2026) UPI fraud patterns reported by RBI, NPCI, and I4C.
@@ -86,3 +87,6 @@ See `DEPLOY.md` for a full walkthrough of getting this onto a real URL (Render f
 - NPCI advisories (2025-2026) on QR tampering, screen-sharing scams, P2P collect request discontinuation
 - I4C Q2 2026 advisory on fake customer care pages
 - National Cyber Crime Helpline (1930) / cybercrime.gov.in reporting guidance
+=======
+# UPI-scam-checker
+>>>>>>> 077bc65dda4ae31c8054e71b76ad6e8c1bd120d4
